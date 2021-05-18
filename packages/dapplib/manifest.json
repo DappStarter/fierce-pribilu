@@ -1,0 +1,17 @@
+{
+    "name": "mytest",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "mytest",
+        "/category/asset_value_tracking/token/symbol": "MYT",
+        "/category/asset_value_tracking/token/decimals": "0",
+        "/category/asset_value_tracking/token/supply": "100000",
+        "/category/collection/entity": true
+    }
+}
